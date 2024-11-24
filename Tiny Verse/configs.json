@@ -1,10 +1,13 @@
 {
   "timeZone": "en-US",
-  "isSkipInvalidProxy": true,
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
-  "isDoTasks": true,
-  "isPlayGames": true,
-  "referralCode": ""
+  "doTasks": true,
+  "playGames": true,
+  "referralCode": "",
+  "amountOfStarsToCreateOneStar": "100"
 }
