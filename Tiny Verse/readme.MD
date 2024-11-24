@@ -32,6 +32,7 @@ To get started with the bot, follow these steps:
 
 ```json
 {
+ "amountOfStarsToCreateOneStar": "100",
   "timeZone": "en-US",
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
