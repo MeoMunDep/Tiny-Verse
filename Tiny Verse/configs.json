@@ -9,5 +9,7 @@
   "doTasks": true,
   "playGames": true,
   "referralCode": "",
-  "amountOfStarsToCreateOneStar": "100"
+  "giveStarsToRandomGalaxy": false,
+  "idOfGalaxyToGift": "000228cf2400047ecc6900037db16c",
+  "amountOfStarsToGift": "100"
 }
