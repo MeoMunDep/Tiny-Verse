@@ -29,8 +29,9 @@ To get started with the bot, follow these steps:
 ## 📁 Configuration Files
 
 ### 1. `configs.json` 📜 - Adjust configuration
+- Learn how to get `galaxy id` here: [Link](https://t.me/KeoAirDropFreeNe/257/23640)
 
-```json  - Learn how to get `galaxy id` here: [Link](https://t.me/KeoAirDropFreeNe/257/23640)
+```json  
 {
   "timeZone": "en-US",
   "rotateProxy": false,
