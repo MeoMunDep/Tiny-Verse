@@ -30,7 +30,7 @@ To get started with the bot, follow these steps:
 
 ### 1. `configs.json` 📜 - Adjust configuration
 
-```json
+```json  - Learn how to get `galaxy id` here: [Link](https://t.me/KeoAirDropFreeNe/257/23640)
 {
   "timeZone": "en-US",
   "rotateProxy": false,
@@ -43,7 +43,7 @@ To get started with the bot, follow these steps:
   "playGames": true,
   "referralCode": "",
   "giveStarsToRandomGalaxy": false,
-  "idOfGalaxyToGift": "000228cf2400047ecc6900037db16c", - Learn how to get `galaxy id` here: [Link](https://t.me/KeoAirDropFreeNe/257/23640)
+  "idOfGalaxyToGift": "000228cf2400047ecc6900037db16c",
   "amountOfStarsToGift": "100"
 }
 
