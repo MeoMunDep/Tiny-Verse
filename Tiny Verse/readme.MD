@@ -43,7 +43,7 @@ To get started with the bot, follow these steps:
   "playGames": true,
   "referralCode": "",
   "giveStarsToRandomGalaxy": false,
-  "idOfGalaxyToGift": "000228cf2400047ecc6900037db16c",
+  "idOfGalaxyToGift": "000228cf2400047ecc6900037db16c", - Learn how to get `galaxy id` here: [Link](https://t.me/KeoAirDropFreeNe/257/23640)
   "amountOfStarsToGift": "100"
 }
 
