@@ -32,15 +32,21 @@ To get started with the bot, follow these steps:
 
 ```json
 {
- "amountOfStarsToCreateOneStar": "100",
   "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
-  "numberOfAccountsRunInOneTime": 100,
-  "isDoTasks": true,
-  "isPlayingGames": true,
-  "referralCode": "" - Your referral code, dont change it if you want to help me ^^
+  "howManyAccountsRunInOneTime": 100,
+  "doTasks": true,
+  "playGames": true,
+  "referralCode": "",
+  "giveStarsToRandomGalaxy": false,
+  "idOfGalaxyToGift": "000228cf2400047ecc6900037db16c",
+  "amountOfStarsToGift": "100"
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/17251)
