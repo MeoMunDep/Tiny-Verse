@@ -6,10 +6,8 @@
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
-  "doTasks": true,
-  "playGames": true,
-  "referralCode": "",
+  "referralCode": "000228cf2400047ecc6900037db16c",
   "giveStarsToRandomGalaxy": false,
   "idOfGalaxyToGift": "000228cf2400047ecc6900037db16c",
-  "amountOfStarsToGift": "100"
+  "amountOfStarsToGift": "10"
 }
