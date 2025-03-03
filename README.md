@@ -37,7 +37,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 ## 📁 Configuration Files
 
 ### 1. `configs.json` 📜 - Adjust configuration
-- Learn how to get `galaxy id` here: [Link](https://t.me/KeoAirDropFreeNe/257/23640)
+- Learn how to get `galaxy id` here: [Link](https://t.me/KeoAirDropFreeNee/1519)
 
 ```json  
 {
