@@ -1,5 +1,5 @@
 📞 Contact
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 > If you encounter any issues or have questions, feel free to reach out:
 
@@ -27,7 +27,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto-js ws uuid
+   npm i user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent
    ```
 
 2. **Prepare Configuration Files:**
@@ -41,7 +41,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json  
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
@@ -76,16 +75,24 @@ abc...xyz
 
 ### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
 
+- [Get it from here](https://www.webshare.io/?referral_code=4l5kb3glsce7)
+
 ```txt
-http://user:password@host:port
-https://user:password@host:port
-socks4://user:password@host:port
-socks5://user:password@host:port
+host:port
+http://host:port
+https://host:port
+socks4://host:port
+socks5://host:port
+user:pass@host:port
+http://user:pass@host:port
+https://user:pass@host:port
+socks4://user:pass@host:port
+socks5://user:pass@host:port
 ```
 
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `cd tiny-verse-main/tiny verse; node bot`
+> To run the bot, use the following command: `cd tiny-verse; node meomundep`
 
 🎇Enjoy!

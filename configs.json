@@ -1,11 +1,11 @@
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
+  
   "referralCode": "000228cf2400047ecc6900037db16c",
   "giveStarsToRandomGalaxy": false,
   "idOfGalaxyToGift": "000228cf2400047ecc6900037db16c",
