@@ -74,7 +74,7 @@ while true; do
             clear
             print_yellow "Installing/Updating Node.js dependencies..."
             cd "$MODULES_DIR"
-            npm install axios meo-forkcy-colors https-proxy-agent socks-proxy-agent 
+            npm install axios meo-forkcy-colors meo-forkcy-proxy meo-forkcy-logger
             cd - > /dev/null
             print_green "Dependencies installation completed!"
             read -p "Press Enter to continue..."
